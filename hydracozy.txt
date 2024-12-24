@@ -1,0 +1,5 @@
+nul - AtopGames
+https://hydralinks.cloud/sources/onlinefix.json - Online-Fix
+https://hydralinks.cloud/sources/steamrip.json - Steam-Rip [DIRECT DOWNLOAD / NO TORRENT]
+https://hydralinks.cloud/sources/steamrip-software.json - SteamRip [SOFTWARE ONLY / NO TORRENT]
+https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/all_categories.json - RuTracker
